@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "FrontBlazor",
   "resources": {
-    "hash": "sha256-HXKYUlXBN8SOJgoAxdu0mDiF18Jmtt9PN4UMvFDGdhg=",
+    "hash": "sha256-OuSdeYEeZBAozBXsuVt7g8Kv9iVQHNuG0ZB/WJiTiBk=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-RiGT44TFZmHOY+Oqvb8o8r+BJVWex6+dPxFxrOiWvFY="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "FrontBlazor.wasm": "sha256-GgHV7VlSpW0XPnaAGqxb/qKe2oR1oml9sC2TTvXs0Jk=",
+      "FrontBlazor.wasm": "sha256-6CiKT4sI2v6nYSNz70imUdDcb3JLn4L/M9lKf79nzhA=",
       "Microsoft.AspNetCore.Authorization.wasm": "sha256-Q8Lpe8SQx8+9kTHx+tIFsDeDOtg4WxDQXAWr5UIpcTs=",
       "Microsoft.AspNetCore.Components.Authorization.wasm": "sha256-sisGYjL/2rYIXxaToh9lqdXrObUBpA0aweYaJfyYVkg=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-iMw9CJXspnUeYhd4QFlAU1aCnts5++YqfsfE9zfpxNo=",
